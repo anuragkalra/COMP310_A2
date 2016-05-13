@@ -8,3 +8,5 @@ Takes in a two positive integers which correspond to the ID, as well as the job 
 
 Printer program runs in the following way:
 Takes in a single positive integer argument which corresponds to the length of the queue, otherwise it is hardcoded with a value of 10.
+
+The project description (given by Professor Maheswaran) is also included in file "mini_PA2.pdf".
